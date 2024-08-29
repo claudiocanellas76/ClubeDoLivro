@@ -6,4 +6,5 @@
     public string Edicao { get; set; }
     public string CodigoISBN { get; set; }
     public string Paginas { get; set; }
+    public List<Livro> Livros { get; set; }
 }
