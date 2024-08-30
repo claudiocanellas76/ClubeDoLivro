@@ -1,4 +1,4 @@
-﻿using ClubeDoLivro;
+﻿using ClubeDoLivro.Domains;
 
 public class ProgressoLeitura
 {
