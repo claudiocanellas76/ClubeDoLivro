@@ -1,10 +1,11 @@
-﻿using ClubeDoLivro.Domains;
-
-public class DonoLivro
+﻿namespace ClubeDoLivro.Domains
 {
-    public int Id  { get; set; }
-    public Usuario Usuario { get; set; }
-    
-    public Livro Livro { get; set; }
-    public Versao Versao { get; set; }
+    public class DonoLivro
+    {
+        public int Id { get; set; }
+        public Usuario Usuario { get; set; }
+
+        public Livro Livro { get; set; }
+        public Versao Versao { get; set; }
+    }
 }
