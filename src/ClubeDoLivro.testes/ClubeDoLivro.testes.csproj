@@ -17,8 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ClubeDoLivro.Function\ClubeDoLivro.Function.csproj" />
-    <ProjectReference Include="..\ClubeDoLivro.csproj" />
     <ProjectReference Include="..\ClubeDoLivro\ClubeDoLivro.csproj" />
   </ItemGroup>
 

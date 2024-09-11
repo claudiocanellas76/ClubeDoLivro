@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubeDoLivro", "ClubeDoLivro\ClubeDoLivro.csproj", "{488BF43B-94A3-4D2E-940E-518460EAD66D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubeDoLivro.Function", "ClubeDoLivro.Function\ClubeDoLivro.Function.csproj", "{1F14F78D-8F3F-4189-9433-8F57FD5A9C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubeDoLivro.testes", "ClubeDoLivro.testes\ClubeDoLivro.testes.csproj", "{A737300D-27D7-4617-AF97-58E091FC5814}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{488BF43B-94A3-4D2E-940E-518460EAD66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{488BF43B-94A3-4D2E-940E-518460EAD66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{488BF43B-94A3-4D2E-940E-518460EAD66D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F14F78D-8F3F-4189-9433-8F57FD5A9C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F14F78D-8F3F-4189-9433-8F57FD5A9C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F14F78D-8F3F-4189-9433-8F57FD5A9C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F14F78D-8F3F-4189-9433-8F57FD5A9C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A737300D-27D7-4617-AF97-58E091FC5814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A737300D-27D7-4617-AF97-58E091FC5814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A737300D-27D7-4617-AF97-58E091FC5814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A737300D-27D7-4617-AF97-58E091FC5814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
